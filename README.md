@@ -79,7 +79,7 @@ The pairplot clearly shows that Setosa is linearly separable from the other two 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Iris_Flower_Classification.git
+   git clone https://github.com/nada-etman/Iris_Flower_Classification.git
    cd Iris_Flower_Classification
    ```
 
